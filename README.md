@@ -1,2 +1,2 @@
 # Time-forecasting-project
-Analyze time series of temperature in India.
+Analyse time series of temperature in India.
